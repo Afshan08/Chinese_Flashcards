@@ -1,0 +1,60 @@
+|一|一|yī|det.: one {{audio|cmn|Zh-yi1.ogg|yī}}
+|在|在|zài|in, at, on, etc. {{audio|cmn|Zh-zài.ogg|zài}}
+|有|有|yǒu|have, possess
+|個|个|gè|piece, item {{audio|cmn|Zh-gè.ogg|gè}}
+|我|我|wǒ|I, me, ego, self {{audio|cmn|Zh-wǒ.ogg|wǒ}}
+|不|不|bù|non, do not, no, nowise, not, nope, nae, no more, nix {{audio|cmn|Zh-bu4.ogg|bù}}
+|這|这|zhè|now, this, det.: this, it* {{audio|cmn|Zh-zhè.ogg}}
+|他|他|tā|he, she, it, they (referring to inanimate things in object position) {{audio|cmn|Zh-tā.ogg|tā}}
+|也|也|yě|also, too, as well, either, even {{audio|cmn|Zh-ye3.ogg|yě}}
+|就|就|jiù|then, at once, right away, an indicator strengthening speaker's evaluation
+|人|人|rén|person, people {{audio|cmn|Zh-rén.ogg|rén}}
+|都|都|dōu|all, even, already
+|說|说|shuō|speak, talk, explain, scold {{audio|cmn|Zh-shuō.ogg|shuō}}
+|而|而|ér|conj.: and yet
+|們|们|men|plural marker for personal pronouns or for nouns referring to people
+|你|你|nǐ|you {{audio|cmn|Zh-nǐ.ogg|nǐ}}
+|了|了|le|particle: indicating new situation or completed action {{audio|cmn|Zh-le.ogg|le}}
+|要|要|yào|want, need, must, should {{audio|cmn|Zh-yào.ogg|yào}}
+|會|会|huì|to be able, can, will, to meet {{audio|cmn|Zh-huì.ogg|huì}}
+|對|对|duì|correct, true, toward {{audio|cmn|Zh-duì.ogg|duì}}
+|及|及|jí|to reach, to catch up, and {{audio|cmn|Zh-jí.ogg|jí}}
+|和|和|hé|and, with, gentle, peaceful
+|與|与|yǔ|and, together with, to give
+|以|以|yǐ|using, taking, from a point on, because of
+|很|很|hěn|pretty, thrice, monstrously, gey, quite, mighty, stinking, sopping, some, assai, full, most, clinking, much, thumping, awfully, fiendishly, thundering, very, real, really, bally, proper, grossly, powerful, so, rattling, well, considerably, greatly, terribly
+|種|种|zhǒng|m.[kind] {{audio|cmn|Zh-zhǒng.ogg|zhǒng}}
+|的|的|de|particle: emphasizing an action/situation
+|大|大|dà|great, macro, old, very, vast, tall, big, high, much
+|能|能|néng|can or to be capable of
+|著|着|zhe|[aspect]
+|她|她|tā|she, her, she (neologism for {1ta1}[2]), )
+|那|那|nà|det.: that
+|上|上|shàng|on, above {{audio|cmn|Zh-shàng.ogg|shàng}}
+|但|但|dàn|conj.: but, yet, still, nevertheless, only, merely {{audio|cmn|Zh-dàn.ogg|dàn}}
+|年|年|nián|year {{audio|cmn|Zh-nián.ogg|nián}}
+|還|还|hái|still, yet, also, too, as well, besides
+|可以|可以|kěyǐ|can, may
+|最|最|zuì|most, to the highest degree, much, superlatively
+|自己|自己|zìjǐ|lonesome, number_one, own, ego, self, oneself, name
+|為|为|wéi|by
+|來|来|lái|come, arrive {{audio|cmn|Zh-lái.ogg|lái}}
+|所|所|suǒ|that which
+|他們|他们|tāmen|they
+|兩|两|liǎng|det.: two, both (sides), either (side), a few, some {{audio|cmn|Zh-liǎng.ogg|liǎng}}
+|各|各|gè|det.: each, every {{audio|cmn|Zh-gè.ogg|gè}}
+|可|可|kě|can, may {{audio|cmn|Zh-kě.ogg|kě}}
+|為|为|wéi|be, become
+|或|或|huò|conj.: or, either or {{audio|cmn|Zh-huò.ogg|huò}}
+|好|好|hǎo|good {{audio|cmn|Zh-hǎo.ogg|hǎo}}
+|等|等|děng|conj.: and so on, etc {{audio|cmn|Zh-děng.ogg|děng}}
+|又|又|yòu|again, moreover
+|將|将|jiāng|be about to {{audio|cmn|Zh-jiāng.ogg|jiāng}}
+|因為|因为|yīnwèi|conj.: because, for, on account of
+|於|于|yú|in, at, to, from, out of, by
+|由|由|yóu|from, via, by, through, owing/due to
+|從|从|cóng|from, since, through {{audio|cmn|Zh-cóng.ogg|cóng}}
+|更|更|gèng|more, still/even more, further, furthermore {{audio|cmn|Zh-gèng.ogg|gèng}}
+|被|被|bèi|by {{audio|cmn|Zh-bèi.ogg|bèi}}
+|才|才|cái|then and only then, just now, only (before a number) {{audio|cmn|Zh-cái.ogg|cái}}
+|已|已|yǐ|already
